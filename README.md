@@ -30,6 +30,10 @@ A Business Intelligence and data analytics project that analyzes Bangalore’s l
 - Dashboard screenshots  
 
 ---
+## Setup
+pip install -r requirements.txt
+
+----
 
 ## How to Run
 1. Open the `.pbix` file in Power BI Desktop  
